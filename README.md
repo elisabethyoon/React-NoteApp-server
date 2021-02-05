@@ -21,4 +21,4 @@ localhost:3000/api/docs로 api문서 확인
 
 ## 학습노트 설치 방법
 
-[학습노트 설치 레포지토리 바로가기](https://github.com/nohsunghyung/vue-learning-note)
+[학습노트 설치 레포지토리 바로가기](https://github.com/elisabethyoon/React-NoteApp)
